@@ -8,7 +8,7 @@ This repository is a **Felipe González** submission for Getting and Cleaning Da
 + `run_analysis.R` Performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
 + `Final Data.txt` Final data after running the script `run_analysis.R`.
 
-##Instructions
+## Instructions
 + Please download all the `R scripts` in this repository and save them on the same directory.
 + Run `run_analysis.R`,  and then `Final_Data.txt` should appear on the directory.
 
